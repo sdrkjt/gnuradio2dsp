@@ -13,3 +13,6 @@
 [submodule "gr-lte"]
 	path = gr-lte
 	url = https://github.com/kit-cel/gr-lte
+[submodule "gr-dvbt"]
+	path = gr-dvbt
+	url = https://github.com/BogdanDIA/gr-dvbt
